@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\C# work\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Student\Desktop\C# work\Login\Login\bin\Debug\Login.exe
+C:\Users\Student\Desktop\C# work\Login\Login\bin\Debug\Login.pdb
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.exe
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.pdb
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.Properties.SplashScreen.resources
+C:\Users\Student\Desktop\C# work\Login\Login\obj\Debug\Login.Properties.home.resources

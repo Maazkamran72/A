@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\bin\Debug\Sigup.exe.config
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\bin\Debug\Sigup.exe
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\bin\Debug\Sigup.pdb
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.Form1.resources
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.Properties.Resources.resources
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.exe
+C:\Users\Student\Desktop\C# work\SQL C#\Sigup\Sigup\obj\Debug\Sigup.pdb
