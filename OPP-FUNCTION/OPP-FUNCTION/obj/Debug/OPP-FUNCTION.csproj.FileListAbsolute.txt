@@ -1,0 +1,7 @@
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\bin\Debug\OPP-FUNCTION.exe.config
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\bin\Debug\OPP-FUNCTION.exe
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\bin\Debug\OPP-FUNCTION.pdb
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\obj\Debug\OPP-FUNCTION.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\obj\Debug\OPP-FUNCTION.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\obj\Debug\OPP-FUNCTION.exe
+C:\Users\Com\Desktop\C# SEM-3\OPP-FUNCTION\OPP-FUNCTION\obj\Debug\OPP-FUNCTION.pdb
